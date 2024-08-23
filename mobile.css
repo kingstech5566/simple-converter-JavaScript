@@ -1,0 +1,35 @@
+@media(max-width:450px){
+
+    main{
+        background-size: 100%;
+    }
+    
+    main h1{
+        width: 100%;
+        align-self: flex-start;
+        color: white;
+    }
+    
+    main .far{
+        width: 100px;
+        height: 100px;
+        padding-top: 30px;
+        margin-right: 30px;
+    }
+    
+    main .cel{
+        width: 90px;
+        height: 90px;
+        margin-left: 30px;
+    }
+    
+    
+    form input{
+        width: 90%;
+    }
+    
+    form button{
+        width: 40%;
+        font-size: 20px;
+    }
+}
